@@ -1,0 +1,19 @@
+student_id,name,course,python,sql,cloud
+S001,Aarav Sharma,Python,91,88,95
+S002,Diya Patel,Python,84,79,83
+S003,Rohan Gupta,Cloud,73,77,72
+S004,Meera Iyer,Cloud,65,62,68
+S005,Kabir Singh,Data,58,61,55
+S006,Anaya Rao,Data,96,91,94
+S007,Vivaan Das,Python,47,49,45
+S008,Isha Nair,Cloud,81,86,79
+S009,Arjun Mehta,Data,76,72,74
+S010,Sara Khan,Python,69,66,71
+S011,Aditya Joshi,Cloud,54,57,52
+S012,Kiara Jain,Data,88,85,90
+S013,Rudra Bose,Python,62,59,64
+S014,Tara Roy,Cloud,78,82,80
+S015,Neil Verma,Data,45,41,48
+S001,Duplicate Student,Python,80,80,80
+S016,Invalid Mark,Python,105,80,80
+S017,,Cloud,70,70,70

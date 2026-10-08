@@ -1,0 +1,21 @@
+expense_id,date,category,description,amount,payment_method
+E001,2026-09-01,Food,Breakfast,180,UPI
+E002,2026-09-01,Transport,Metro,55,Card
+E003,2026-09-02,Shopping,Notebook,240,Cash
+E004,2026-09-03,Bills,Mobile recharge,299,UPI
+E005,2026-09-04,Entertainment,Movie,350,Card
+E006,2026-09-05,Food,Lunch,220,UPI
+E007,2026-09-06,Healthcare,Medicine,410,Cash
+E008,2026-09-07,Education,Book,525,Card
+E009,2026-09-08,Transport,Cab,180,UPI
+E010,2026-09-09,Food,Dinner,430,Card
+E011,2026-09-10,Other,Gift,600,Cash
+E012,2026-09-11,Bills,Internet,799,UPI
+E013,2026-09-12,Shopping,Clothes,1350,Card
+E014,2026-09-13,Food,Groceries,980,UPI
+E015,2026-09-14,Transport,Bus,35,Cash
+E016,2026-09-15,Entertainment,Subscription,199,Card
+E017,2026-09-16,Healthcare,Checkup,700,UPI
+E018,2026-09-17,Education,Course,1200,Card
+E019,2026-09-18,Food,Coffee,120,Cash
+E020,2026-09-19,Other,Stationery,160,UPI

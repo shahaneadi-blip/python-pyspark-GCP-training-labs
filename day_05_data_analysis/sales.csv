@@ -1,0 +1,13 @@
+date,region,category,product,quantity,unit_price
+2026-01-05,North,Electronics,Laptop,3,52000
+2026-01-12,West,Accessories,Keyboard,18,1200
+2026-02-03,South,Furniture,Desk,6,8500
+2026-02-15,East,Electronics,Monitor,11,14500
+2026-03-02,North,Accessories,Mouse,30,650
+2026-03-18,West,Stationery,Notebook,70,90
+2026-04-08,South,Electronics,Laptop,4,51000
+2026-04-20,East,Furniture,Chair,20,3200
+2026-05-06,North,Stationery,Pen Set,45,180
+2026-05-25,West,Accessories,Keyboard,13,1250
+2026-06-10,South,Electronics,Monitor,9,14200
+2026-06-26,East,Accessories,Mouse,40,620

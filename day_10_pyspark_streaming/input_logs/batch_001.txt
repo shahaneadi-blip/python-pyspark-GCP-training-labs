@@ -1,0 +1,5 @@
+2026-10-09 09:00:01|INFO|orders|Order service started
+2026-10-09 09:00:05|WARNING|payments|Payment gateway latency high
+2026-10-09 09:00:10|ERROR|orders|Order validation failed
+2026-10-09 09:00:15|INFO|inventory|Stock synchronised
+2026-10-09 09:00:20|DEBUG|orders|Request payload accepted

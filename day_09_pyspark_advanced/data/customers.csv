@@ -1,0 +1,7 @@
+customer_id,customer_name,email,phone,age,city
+C001,  aarav sharma ,AARAV@example.com,+91 98765 43210,29,mumbai
+C002,diya patel,DIYA@example.com,98765-43211,34,delhi
+C003,rohan gupta,ROHAN@example.com,98765 43212,41,bengaluru
+C004,meera iyer,MEERA@example.com,98765 43213,17,chennai
+C005,kabir singh,KABIR@example.com,98765 43214,38,
+C005,Kabir Singh,kabir.duplicate@example.com,98765 43214,38,pune

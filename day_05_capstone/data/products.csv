@@ -1,0 +1,6 @@
+product_id,product_name,category,quantity,purchase_price,selling_price,supplier,reorder_level,date_added
+P101,Laptop,Electronics,10,45000,50000,TechSource,5,2026-09-01
+P102,Keyboard,Accessories,25,700,1000,InputHub,10,2026-09-02
+P103,Mouse,Accessories,40,400,650,InputHub,12,2026-09-03
+P104,Office Chair,Furniture,8,3000,4200,ComfortWorks,5,2026-09-04
+P105,Notebook,Stationery,120,45,80,PaperPoint,20,2026-09-05
